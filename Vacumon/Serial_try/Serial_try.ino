@@ -4,6 +4,8 @@ int A = 0;
 int B = 0;
 int C = 0;
 
+
+
 void setup() {
   Serial.begin(9600);   
   inputString.reserve(200);  
